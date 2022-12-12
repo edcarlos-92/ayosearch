@@ -83,3 +83,6 @@ I hope this helps! Let me know if you have any other questions.
 
 # Setting File
 searx\settings.yml
+
+# file permission
+`chmod u+x manage`
