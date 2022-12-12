@@ -530,7 +530,7 @@ engines:
   - name: wikidata
     engine: wikidata
     shortcut: wd
-    timeout: 3.0
+    timeout: 5.0
     weight: 2
     tests: *tests_infobox
 
